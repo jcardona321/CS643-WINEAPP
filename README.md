@@ -6,7 +6,7 @@
 - **Course:** CS643 - Programming Assignment 2
 
 ## Repository and Container Links
-- **GitHub Repository:** [GitHub Link](https://github.com/[YourGitHubUsername]/[YourRepository])
+- **GitHub Repository:** [GitHub Link](https://github.com/jcardona321/CS643-WINEAPP])
 - **Docker Hub Repository:** [Docker Hub Link](https://hub.docker.com/r/[YourDockerUsername]/[YourDockerRepository])
 
 ## Project Overview

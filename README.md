@@ -1,8 +1,8 @@
 # CS643 - Programming Assignment 2: Wine Quality Prediction with Apache Spark and Docker on AWS
 
 ## Student Information
-- **Name:** [Your Name]
-- **Date:** [Submission Date]
+- **Name:** JOSE CARDONA
+- **Date:** 12/7/2023
 - **Course:** CS643 - Programming Assignment 2
 
 ## Repository and Container Links
